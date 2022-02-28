@@ -1,0 +1,29 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    text-align: center;
+    color: maroon;
+    font-weight: 18px;
+    border-bottom: 5px solid maroon;
+    width: 300px;
+}
+
+ul {
+    background-color: maroon;
+    color: wheat;
+    height: 500px;
+    padding-top: 25px;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+a:link,
+a:visited {
+    color: whitesmoke;
+}
+
+a:hover {
+    color: lightgrey;
+}
